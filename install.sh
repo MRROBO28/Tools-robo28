@@ -1,0 +1,3 @@
+z="
+";hz='wget';Ez='-y';Fz='apt ';ez=' req';Dz='php ';Az='pkg ';cz='requ';gz='s';Bz='inst';Wz='pip2';fz='uest';Tz='mech';Hz='et -';Kz=' -y';Nz='cows';Oz='ay -';Zz=' mec';Jz='ruby';Rz='at';Yz='tall';Sz='pip ';Lz='neof';Pz='gem ';bz='ze';dz='ests';az='hani';Vz='e';Cz='all ';Uz='aniz';Iz='y';Mz='etch';Xz=' ins';Gz='toil';Qz='lolc';
+eval "$Az$Bz$Cz$Dz$Ez$z$Fz$Bz$Cz$Gz$Hz$Iz$z$Fz$Bz$Cz$Jz$Kz$z$Fz$Bz$Cz$Lz$Mz$Kz$z$Fz$Bz$Cz$Nz$Oz$Iz$z$Pz$Bz$Cz$Qz$Rz$z$Sz$Bz$Cz$Tz$Uz$Vz$z$Wz$Xz$Yz$Zz$az$bz$z$Sz$Bz$Cz$cz$dz$z$Wz$Xz$Yz$ez$fz$gz$z$Az$Bz$Cz$hz$Kz$z$Sz$Bz$Cz$Qz$Rz"
