@@ -1,2 +1,6 @@
 # Tools-robo28
-Semua caranya ada di tools
+Tools yang sangat berguna dalam beberapa metode
+Spam dll
+
+#Youtube
+https://YouTube.com/TEKTRIKBOT CN
